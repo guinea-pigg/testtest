@@ -1,4 +1,4 @@
 ---
-title: Zakladka
+title: Glossary
 layout: default
 ---

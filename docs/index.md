@@ -1,5 +1,5 @@
 ---
-title: My first website
+title: How to deal with unresponsive SME?
 layout: default
 ---
 
