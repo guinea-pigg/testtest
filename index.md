@@ -3,4 +3,4 @@ title: Home
 layout: home
 ---
 
-halo
+This is going to be my first static website.
