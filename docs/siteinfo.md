@@ -1,4 +1,4 @@
 ---
-title: My first website
+title: Zakladka
 layout: default
 ---
