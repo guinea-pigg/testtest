@@ -2,6 +2,7 @@
 title: How to deal with unresponsive SME?
 layout: default
 nav_order: 2
+has_children: true
 ---
 
 # How to deal with unresponsive SME? 6 specific solutions
