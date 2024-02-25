@@ -10,12 +10,12 @@ has_children: true
 **Glossary:**
 
 - Unresponsive: not reacting or answering, or not reacting or answering satisfactorily.
-- Subject matter expert: an individual who has a deep understanding and expertise in a specific area.
+- Subject matter expert: an individual who has a **deep understanding** and expertise in a specific area.
 - Wh-question: a type of question that begins with a word starting with "wh," such as who, what, when, where, why, or how.
 
 **How to deal at work with an unresponsive subject matter expert? Here are some tips on how to deal with unresponsive subject matter expert.**
 
-Subject matter experts share knowledge and may serve as trainers or mentors to help others (for example technical writers). What to do if a subject matter expert is difficult to cooperate with?
+Subject matter experts share knowledge and may serve as trainers or mentors to help others (for example technical writers). _What to do if a subject matter expert is difficult to cooperate with?_
 
 ## Prepare yourself to the conversation with the subject matter expert
 
@@ -27,7 +27,7 @@ Tell the subject matter expert who you are. Explain the subject matter expert wh
 
 ## Be open for different types of communication
 
-Choose the best form of communication with the subject matter expert. Discover what type of communication your subject matter expert prefers: a face-to-face conversation, written form or a phone call. The more comfortable they feel, the more (and better) information you will receive.
+Choose **the best form of communication** with the subject matter expert. Discover what type of communication your subject matter expert prefers: a face-to-face conversation, written form or a phone call. The more comfortable they feel, the more (and better) information you will receive.
 
 ## Ask questions that can give you the best answers
 
